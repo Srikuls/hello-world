@@ -1,0 +1,7 @@
+str = raw_input('Enter a word:')
+str1 = str.lower()
+if str1 == "a" or str1=="e" or str1=="i" or str1=="o" or str1=="u":
+        print "the word starts with a vowel"
+else:
+        print "the word starts with a consonant"
+
