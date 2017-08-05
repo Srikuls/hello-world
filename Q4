@@ -1,0 +1,3 @@
+str = "srijan1996"
+for char in str:
+    print char, char.isalpha()
