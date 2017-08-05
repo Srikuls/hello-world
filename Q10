@@ -1,0 +1,4 @@
+num = int(input("Enter a number: "))
+l=len(str(abs(num)))
+print ("The length of the integer is ")
+print l
